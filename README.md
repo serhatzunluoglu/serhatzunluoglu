@@ -1,6 +1,5 @@
-<div style="text-align:center;">
-  <h6>Serhat İsmail Zunluoğlu</h6>
-</div>
+<h1 align="center"> <b> Necmettin Erbakan Üniversity </b> </h1>
+<h1 align="center"> <b>Frontend Developer</b> </h1>
 
 
 - 🔭 I’m currently working on Html,Css,Bootstrap
@@ -12,4 +11,9 @@
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: ...
 
-# Necmmettin Erbakan University | Computer Engineering
+
+<p align="center">
+   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" />
+</p>
+
+<h1 align="center"> <b> Necmettin Erbakan University | Computer Engineering </b> </h1>
