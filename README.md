@@ -1,4 +1,6 @@
-# Serhat İsmail ZUNLUOĞLU
+<div style="text-align: center;">
+  <h1>Serhat İsmail Zunluoğlu</h1>
+</div>
 
 --
 
