@@ -1,4 +1,6 @@
-# Necmmettin Erbakan University | Computer Engineering
+# Serhat İsmail ZUNLUOĞLU
+
+--
 
 - 🔭 I’m currently working on Html,Css,Bootstrap
 - 🌱 I’m currently learning Javascript,English
@@ -8,3 +10,5 @@
 - 📫 How to reach me: serhatismail12@gmail.com
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: ...
+
+# Necmmettin Erbakan University | Computer Engineering
