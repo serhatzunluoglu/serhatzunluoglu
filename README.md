@@ -1,8 +1,7 @@
-<div style="text-align: center;">
-  <h1>Serhat İsmail Zunluoğlu</h1>
+<div style="text-align:center;">
+  <h6>Serhat İsmail Zunluoğlu</h6>
 </div>
 
---
 
 - 🔭 I’m currently working on Html,Css,Bootstrap
 - 🌱 I’m currently learning Javascript,English
