@@ -1,6 +1,4 @@
-# Necmmettin Erbakan University ** | ** Computer Engineering
-
-Here are some ideas to get you started:
+# Necmmettin Erbakan University | Computer Engineering
 
 - 🔭 I’m currently working on Html,Css,Bootstrap
 - 🌱 I’m currently learning Javascript,English
