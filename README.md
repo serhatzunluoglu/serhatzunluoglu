@@ -1,6 +1,6 @@
 <h1 align="center"> <b> Serhat İsmail Zunluoğlu </b> </h1>
 
-<div style="display:inline-block">
+<div style="float: left">
 - 🔭 I’m currently working on Html,Css,Bootstrap
 - 🌱 I’m currently learning Javascript,English
 - 👯 I’m looking to collaborate on freelance and internship
@@ -11,7 +11,7 @@
 - ⚡ Fun fact: ...
 </div>
 
-<div style="display:inline-block;">
+<div style="float: right">
    <p align="center">
       <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" />
    </p>
