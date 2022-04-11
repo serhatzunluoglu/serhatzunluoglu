@@ -20,7 +20,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="30" height="30"/>   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
-
+<img src="https://yt3.ggpht.com/_q52i8bUAEvcb7JR4e-eNTv23y2A_wg5sCz0NC0GrGtcw1CRMWJSOPVHUDh_bngD0q4gMvVeoA=s900-c-k-c0x00ffffff-no-rj" width="30" height="30">
 </p>
 
 <p align="center">
@@ -28,6 +28,6 @@
 </p>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=serhatzunluoglu&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=serhat-zunluoglu&&style=flat-square" align="center" />
 </div>  
   
