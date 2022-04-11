@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" width="400" />
 
-</br>
+
 - 🔭 I’m currently working on Html,Css,Bootstrap
 - 🌱 I’m currently learning Javascript,English
 - 👯 I’m looking to collaborate on freelance and internship
