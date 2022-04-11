@@ -29,3 +29,8 @@
    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" />
 </p>
 
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=serhatzunluoglu&&style=flat-square" align="center" />
+</div>  
+  
