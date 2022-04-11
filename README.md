@@ -9,8 +9,10 @@
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: ...
 
+<h1 align="center"> <b> Necmettin Erbakan University | Computer Engineering </b> </h1>
+
 <p align="center">
    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" />
 </p>
 
-<h1 align="center"> <b> Necmettin Erbakan University | Computer Engineering </b> </h1>
+
