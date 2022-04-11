@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Javascript,English
 - 👯 I’m looking to collaborate on freelance and internship
 - 🤔 I’m looking for help with internship
-- 💬 Ask me about ...
+- 💬 Ask me about anything
 - 📫 How to reach me: serhatismail12@gmail.com
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: ...
