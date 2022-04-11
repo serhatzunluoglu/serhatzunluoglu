@@ -1,8 +1,5 @@
 <h1 align="center"> <b> Serhat İsmail Zunluoğlu </b> </h1>
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" width="400" />
-
-
 - 🔭 I’m currently working on Html,Css,Bootstrap
 - 🌱 I’m currently learning Javascript,English
 - 👯 I’m looking to collaborate on freelance and internship
@@ -11,6 +8,7 @@
 - 📫 How to reach me: serhatismail12@gmail.com
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: ...
+
 
    
 <h1 align="center"> <b> Necmettin Erbakan University | Computer Engineering </b> </h1>
@@ -25,8 +23,9 @@
 
 </p>
 
-
-
+<p align="center">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" />
+</p>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=serhatzunluoglu&&style=flat-square" align="center" />
