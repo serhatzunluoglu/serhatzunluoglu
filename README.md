@@ -1,6 +1,6 @@
 <h1 align="center"> <b> Serhat İsmail Zunluoğlu </b> </h1>
 
-<div style="display:inline-block;">
+<div style="display:inline-block">
 - 🔭 I’m currently working on Html,Css,Bootstrap
 - 🌱 I’m currently learning Javascript,English
 - 👯 I’m looking to collaborate on freelance and internship
