@@ -7,7 +7,7 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: serhatismail12@gmail.com
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: football
 
 
    
