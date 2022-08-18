@@ -27,9 +27,9 @@
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" />
 </p>
 
-<div align="center">
+<div align="center" margin-bottom:30px;>
 <img src="https://komarev.com/ghpvc/?username=serhat-zunluoglu&&style=flat-square" align="center" />
 </div>  
 
 
-<p align="center" style="margin-top:10px;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=serhatzunluoglu&show_icons=true&theme=radical&locale=en&layout=compact" alt="serhatzunluoglu"/></p>
+<p align="center" style="margin-top:30px;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=serhatzunluoglu&show_icons=true&theme=radical&locale=en&layout=compact" alt="serhatzunluoglu"/></p>
