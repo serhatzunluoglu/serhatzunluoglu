@@ -1,4 +1,4 @@
-<h1 align="center"> <b> Serhat İsmail Zunluoğlu </b> </h1>
+<h1 align="center"> <b> Serhat İsmail Zunluoğlu Jr.Front-End Developer </b> </h1>
 
 - 🔭 I’m currently working on Html,Css,Bootstrap,React,Redux
 - 🌱 I’m currently learning Javascript,English
