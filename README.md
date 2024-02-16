@@ -1,13 +1,13 @@
 <h1 align="center"> <b> Serhat İsmail Zunluoğlu </b> </h1>
 
 - 🔭 I’m currently working on Html,Css,Bootstrap,React
-- 🌱 I’m currently learning Javascript,English
-- 👯 I’m looking to collaborate on freelance and internship
+- 🌱 I’m currently learning Javascript,React,English
+- 👯 I’m looking to collaborate on internship and fulltime 
 - 🤔 I’m looking for help with internship
 - 💬 Ask me about anything
-- 📫 How to reach me: serhatismail12@gmail.com
+- 📫 How to reach me: serhatismail12@gmail.com and <a href="https://www.linkedin.com/in/serhatzunluoglu/" target="_blank">Linkedin</a>
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: football
+- ⚡ Fun fact: football and movie 
 
 
    
