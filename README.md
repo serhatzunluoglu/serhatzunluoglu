@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on internship and fulltime 
 - 🤔 I’m looking for help with internship
 - 💬 Ask me about anything
-- 📫 How to reach me: serhatismail12@gmail.com and <a href="https://www.linkedin.com/in/serhatzunluoglu/" target="_blank">Linkedin</a>
+- 📫 How to reach me: serhatismail12@gmail.com and <a target="_blank" href="https://www.linkedin.com/in/serhatzunluoglu/">Linkedin</a>
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: football and movie 
 
