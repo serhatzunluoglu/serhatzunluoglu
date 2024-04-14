@@ -1,9 +1,4 @@
 <h1 align="center"> <b> Serhat İsmail Zunluoğlu </b> </h1>
-| Ad   | Soyad  |
-|------|--------|
-| John | Doe    |
-| Jane | Smith  |
-
 
 <div style="display: flex;">
     <span style="flex: 1;">
