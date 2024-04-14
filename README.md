@@ -23,13 +23,13 @@
 <h3 align="center">Social Medias and Contact:</h3>
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/serhatzunluoglu/">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=light&perline=10" />
+    <img src="https://skillicons.dev/icons?i=linkedin&perline=10" />
   </a>
      <a target="_blank" href="https://www.instagram.com/harry_codder/">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=light&perline=10" />
+    <img src="https://skillicons.dev/icons?i=instagram&perline=10" />
   </a>
      <a target="_blank" href="mailto:serhatismail12@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=light&perline=10" />
+    <img src="https://skillicons.dev/icons?i=gmail&perline=10" />
 </p>
 
 <p align="center">
