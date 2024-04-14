@@ -1,8 +1,5 @@
 <h1 align="center"> <b>  Serhat İsmail Zunluoğlu<br/>  Necmettin Erbakan University | Computer Engineering </b></h1>
 
-<p align="center">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" />
-</p>
 <div>
 <ul>
     <li>🔭 I’m currently working on HTML, CSS, SASS, Bootstrap, Javascript, React</li>
