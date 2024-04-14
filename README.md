@@ -1,16 +1,13 @@
 <h1 align="center"> <b> Serhat İsmail Zunluoğlu </b> </h1>
 
-- 🔭 I’m currently working on Html,Css,Bootstrap,React
+- 🔭 I’m currently working on HTML,CSS,SASS,Bootstrap,Javascript,React
 - 🌱 I’m currently learning Javascript,React,English
-- 👯 I’m looking to collaborate on internship and fulltime 
-- 🤔 I’m looking for help with internship
-- 💬 Ask me about anything
+- 👯 I’m looking to collaborate on internship, part-time, remote and fulltime
+- 💬 Ask me about community, software and anything
 - 📫 How to reach me: serhatismail12@gmail.com and <a target="_blank" href="https://www.linkedin.com/in/serhatzunluoglu/">Linkedin</a>
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: football and movie 
+- ⚡ Fun fact: football and sci-fi movie 
 
-
-   
 <h1 align="center"> <b> Necmettin Erbakan University | Computer Engineering </b> </h1>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -39,7 +36,5 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=serhat-zunluoglu&&style=flat-square" align="center" />
 </div>  
-
-
 
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=serhatzunluoglu&show_icons=true&theme=radical&locale=en&layout=compact" alt="serhatzunluoglu"/></p>
