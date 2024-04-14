@@ -1,12 +1,11 @@
 <h1 align="center"> <b> Serhat İsmail Zunluoğlu </b> </h1>
 
-<div style="display: flex;">
-    <span style="flex: 1;">
+    <div>
         <p align="center">
             <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" />
         </p>
-    </span>
-    <span style="flex: 1;">
+    </div>
+    <div>
         <ul>
             <li>🔭 I’m currently working on HTML, CSS, SASS, Bootstrap, Javascript, React</li>
             <li>🌱 I’m currently learning Javascript, React, English</li>
@@ -16,8 +15,7 @@
             <li>😄 Pronouns: he/his</li>
             <li>⚡ Fun fact: football and sci-fi movie</li>
         </ul>
-    </span>
-</div>
+    </div>
 
 
 
