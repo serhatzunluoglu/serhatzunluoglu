@@ -6,7 +6,7 @@
     <li>🌱 I’m currently learning Javascript, React, English</li>
     <li>👯 I’m looking to collaborate on internship, part-time, remote and fulltime</li>
     <li>💬 Ask me about community, software and anything</li>
-    <li>📫 How to reach me: serhatismail12@gmail.com and <a target="_blank" href="https://www.linkedin.com/in/serhatzunluoglu/">Linkedin</a></li>
+    <li>📫 How to reach me: <a target="_blank" href="mailto:serhatismail12@gmail.com">serhatismail12@gmail.com</a>  and <a target="_blank" href="https://www.linkedin.com/in/serhatzunluoglu/">Linkedin</a></li>
     <li>😄 Pronouns: he/his</li>
     <li>⚡ Fun fact: football and sci-fi movie</li>
     </ul>
