@@ -1,21 +1,19 @@
 <h1 align="center"> <b> Serhat İsmail Zunluoğlu </b> </h1>
 
-    <div>
-        <p align="center">
-            <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" />
-        </p>
-    </div>
-    <div>
-        <ul>
-            <li>🔭 I’m currently working on HTML, CSS, SASS, Bootstrap, Javascript, React</li>
-            <li>🌱 I’m currently learning Javascript, React, English</li>
-            <li>👯 I’m looking to collaborate on internship, part-time, remote and fulltime</li>
-            <li>💬 Ask me about community, software and anything</li>
-            <li>📫 How to reach me: serhatismail12@gmail.com and <a target="_blank" href="https://www.linkedin.com/in/serhatzunluoglu/">Linkedin</a></li>
-            <li>😄 Pronouns: he/his</li>
-            <li>⚡ Fun fact: football and sci-fi movie</li>
-        </ul>
-    </div>
+<p align="center">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" />
+</p>
+<div>
+<ul>
+    <li>🔭 I’m currently working on HTML, CSS, SASS, Bootstrap, Javascript, React</li>
+    <li>🌱 I’m currently learning Javascript, React, English</li>
+    <li>👯 I’m looking to collaborate on internship, part-time, remote and fulltime</li>
+    <li>💬 Ask me about community, software and anything</li>
+    <li>📫 How to reach me: serhatismail12@gmail.com and <a target="_blank" href="https://www.linkedin.com/in/serhatzunluoglu/">Linkedin</a></li>
+    <li>😄 Pronouns: he/his</li>
+    <li>⚡ Fun fact: football and sci-fi movie</li>
+    </ul>
+</div>
 
 
 
