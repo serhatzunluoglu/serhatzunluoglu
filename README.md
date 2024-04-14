@@ -16,24 +16,20 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,react,vite,git,gitlab,netlify,figma,vscode&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,styledcomponents,js,react,vite,git,gitlab,yarn,npm,netlify,figma,vscode&perline=10" />
   </a>
 </p>
 
 <h3 align="center">Social Medias and Contact:</h3>
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/serhatzunluoglu/">
-    <img src="https://skillicons.dev/icons?i=linkedin&perline=10" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light&perline=10" />
   </a>
      <a target="_blank" href="https://www.instagram.com/harry_codder/">
-    <img src="https://skillicons.dev/icons?i=instagram&perline=10" />
+    <img src="https://skillicons.dev/icons?i=instagram&theme=light&perline=10" />
   </a>
-     <a target="_blank" href="https://www.instagram.com/harry_codder/">
-    <img src="https://skillicons.dev/icons?i=instagram&perline=10" />
-  </a>
-     <a target="_blank" href="https://www.instagram.com/harry_codder/">
-    <img src="https://skillicons.dev/icons?i=instagram&perline=10" />
-  </a>
+     <a target="_blank" href="mailto:serhatismail12@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light&perline=10" />
 </p>
 
 <p align="center">
