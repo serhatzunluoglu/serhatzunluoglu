@@ -2,8 +2,8 @@
 
 <div>
 <ul>
-    <li>🔭 I’m currently working on HTML, CSS, SASS, Bootstrap, Javascript and React</li>
-    <li>🌱 I’m currently learning Javascript, React and English</li>
+    <li>👨🏻‍💻 I’m currently working on HTML, CSS, SASS, Bootstrap, Javascript and React</li>
+    <li>📖 I’m currently learning Javascript, React and English</li>
     <li>👯 I’m looking to collaborate on part-time, remote, hybrid and fulltime</li>
     <li>💬 Ask me about community, software and anything</li>
     <li>📫 How to reach me: <a target="_blank" href="mailto:serhatismail12@gmail.com">serhatismail12@gmail.com</a>  and <a target="_blank" href="https://www.linkedin.com/in/serhatzunluoglu/">Linkedin</a></li>
