@@ -15,7 +15,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,styledcomponents,js,react,vite,git,gitlab,yarn,npm,netlify,figma,vscode&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,styledcomponents,js,react,vite,git,gitlab,yarn,npm,netlify,figma,vscode,framer&perline=10" />
   </a>
 </p>
 
