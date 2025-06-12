@@ -2,7 +2,7 @@
 
 <div>
 <ul>
-    <li>👨🏻‍💻 I’m currently working on HTML, CSS, SASS, Bootstrap, Tailwind, Javascript and React</li>
+    <li>👨🏻‍💻 I’m currently working on HTML, Liquid HTML, CSS, SASS, Bootstrap, Tailwind, Javascript and React</li>
     <li>📖 I’m currently learning Javascript, React and English</li>
     <li>👯 I’m looking to collaborate on part-time, remote, hybrid and fulltime</li>
     <li>💬 Ask me about community, software and anything</li>
