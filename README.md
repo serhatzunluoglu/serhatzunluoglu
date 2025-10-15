@@ -3,12 +3,12 @@
 <div>
 <ul>
     <li>👨🏻‍💻 I’m currently working on HTML, Liquid HTML, CSS, SASS, Bootstrap, Tailwind, Javascript and React</li>
-    <li>📖 I’m currently learning Javascript, React and English</li>
+    <li>📖 I’m currently learning TypeScript, Next.js and Shadcn/ui</li>
     <li>👯 I’m looking to collaborate on part-time, remote, hybrid and fulltime</li>
     <li>💬 Ask me about community, software and anything</li>
     <li>📫 How to reach me: <a target="_blank" href="mailto:serhatismail12@gmail.com">serhatismail12@gmail.com</a>  and <a target="_blank" href="https://www.linkedin.com/in/serhatzunluoglu/">Linkedin</a></li>
     <li>😄 Pronouns: he/his</li>
-    <li>⚡ Fun fact: football and sci-fi movie</li>
+    <li>⚡ Fun fact: football, events and sci-fi movie</li>
     </ul>
 </div>
 
