@@ -1,4 +1,4 @@
-<h1 align="center"> <b>  Serhat İsmail Zunluoğlu<br/> Jr. Frontend Developer | Computer Engineer </b></h1>
+<h1 align="center"> <b>  Serhat İsmail Zunluoğlu<br/> Frontend Developer | Computer Engineer </b></h1>
 
 <div>
 <ul>
