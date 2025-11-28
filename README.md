@@ -1,7 +1,7 @@
 <h1 align="center"> <b>  Serhat İsmail Zunluoğlu<br/> Frontend Developer | Computer Engineer </b></h1>
 
 <div>
-Serhat Ismail currently works with HTML, Liquid HTML, CSS, SASS, Bootstrap, Tailwind, JavaScript, and React, while actively learning TypeScript, Next.js, and Shadcn/ui. He is open to part-time, remote, hybrid, and full-time collaboration opportunities. You can reach him via email or LinkedIn to discuss community and software topics. Outside of work, he enjoys football, events, and sci-fi movies.
+I currently work with HTML, Liquid HTML, CSS, SASS, Bootstrap, Tailwind, JavaScript, and React, while actively learning TypeScript, Next.js, and Shadcn/ui. I am open to part-time, remote, hybrid, and full-time collaboration opportunities. You can reach me via email or LinkedIn to discuss community and software topics. Outside of work, I enjoy football, events, and sci-fi movies.
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -86,7 +86,6 @@ Serhat Ismail currently works with HTML, Liquid HTML, CSS, SASS, Bootstrap, Tail
 
 <br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=serhatzunluoglu&show_icons=true&theme=radical&locale=en&layout=compact" alt="serhatzunluoglu"/>
-</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=serhatzunluoglu&theme=dark" alt="GitHub Streak" /></a>
+
 
