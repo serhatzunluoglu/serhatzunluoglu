@@ -1,7 +1,7 @@
 <h1 align="center"> <b>  Serhat İsmail Zunluoğlu<br/> Frontend Developer | Computer Engineer </b></h1>
 
 <div>
-I currently work with HTML, Liquid HTML, CSS, SASS, Bootstrap, Tailwind, JavaScript, and React, while actively learning TypeScript, Next.js, and Shadcn/ui. I am open to part-time, remote, hybrid, and full-time collaboration opportunities. You can reach me via email or LinkedIn to discuss community and software topics. Outside of work, I enjoy football, events, and sci-fi movies.
+I currently work with **HTML, Liquid HTML, CSS, SASS, Bootstrap, Tailwind, JavaScript, and React**, while actively learning **TypeScript**, **Next.js**, and **Shadcn/ui**. I am open to **remote**, **hybrid**, and **full-time** collaboration opportunities. You can reach me via email or LinkedIn to discuss community and software topics.
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
