@@ -70,11 +70,8 @@ I currently work with **HTML, Liquid HTML, CSS, SASS, Bootstrap, Tailwind, JavaS
 <h3 align="center">Social Medias and Contact:</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/serhatzunluoglu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo"  /></a>
-  <img width="12" />
   <a href="https://www.instagram.com/harry_codder/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="40" alt="instagram logo"  /></a>
-  <img width="12" />
   <img src="https://img.shields.io/badge/Clickup-716bfc?logo=clickup&logoColor=white&style=for-the-badge" height="40" alt="clickup logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white&style=for-the-badge" height="40" alt="slack logo"  />
 </div>
 
