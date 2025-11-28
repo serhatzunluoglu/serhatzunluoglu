@@ -69,9 +69,9 @@ I currently work with **HTML, Liquid HTML, CSS, SASS, Bootstrap, Tailwind, JavaS
 
 <h3 align="center">Social Medias and Contact:</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/serhatzunluoglu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo"  /></a>
   <img width="12" />
-  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="40" alt="instagram logo"  />
+  <a href="https://www.instagram.com/harry_codder/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="40" alt="instagram logo"  /></a>
   <img width="12" />
   <img src="https://img.shields.io/badge/Clickup-716bfc?logo=clickup&logoColor=white&style=for-the-badge" height="40" alt="clickup logo"  />
   <img width="12" />
@@ -90,6 +90,10 @@ I currently work with **HTML, Liquid HTML, CSS, SASS, Bootstrap, Tailwind, JavaS
 
 <br/>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=serhatzunluoglu&theme=dark" alt="GitHub Streak" /></a>
+![](https://github-readme-stats.vercel.app/api?username=serhatzunluoglu2&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true) <br/>
+<div align="center"><img src="https://streak-stats.demolab.com?user=serhatzunluoglu&theme=dark" alt="GitHub Streak" /></div><br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=serhatzunluoglu&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 
