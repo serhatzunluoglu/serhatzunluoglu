@@ -87,10 +87,8 @@ I currently work with **HTML, Liquid HTML, CSS, SASS, Bootstrap, Tailwind, JavaS
 
 <br/>
 
-![](https://github-readme-stats.vercel.app/api?username=serhatzunluoglu2&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true) <br/>
 <div align="center"><img src="https://streak-stats.demolab.com?user=serhatzunluoglu&theme=dark" alt="GitHub Streak" /></div><br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=serhatzunluoglu&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 
